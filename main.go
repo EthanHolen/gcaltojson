@@ -8,5 +8,5 @@ func ValidateWithGoogle(credentials string) {
 }
 
 func GetCalendarAsJson() {
-	fmt.Printf("converting calendar to json and returning")
+	fmt.Printf("converting calendar to json and returning \n")
 }
